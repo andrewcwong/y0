@@ -1863,7 +1863,7 @@ input, select, textarea {
 			.box.style1 .inner > :last-child {
 				margin: 0;
 				font-size: 0.75em;
-				line-height: 20pt;
+				line-height: 18pt;
 			}
 
 			.box.style1.right .image {
@@ -2114,7 +2114,7 @@ input, select, textarea {
 			}
 
 		#banner p {
-			margin: 4em;
+			margin: 4em 10%;
 			font-size: 0.7em;
 			font-weight: 60;
 			letter-spacing: 1px;
