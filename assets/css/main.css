@@ -225,7 +225,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			.container {
-				width: 960px;
+				width: 1088px;
 			}
 
 		}
@@ -1807,7 +1807,7 @@ input, select, textarea {
 
 	.box {
 		position: relative;
-		margin-top: 9em;
+		margin-top: 8em;
 		margin-bottom: 0;
 	}
 
@@ -1862,6 +1862,8 @@ input, select, textarea {
 
 			.box.style1 .inner > :last-child {
 				margin: 0;
+				font-size: 0.75em;
+				line-height: 20pt;
 			}
 
 			.box.style1.right .image {
