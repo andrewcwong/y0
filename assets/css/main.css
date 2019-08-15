@@ -225,7 +225,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			.container {
-				width: 1088px;
+				width: 1080px;
 			}
 
 		}
@@ -1871,7 +1871,7 @@ input, select, textarea {
 			}
 
 				.box.style1.right .image img {
-						left: 0;
+						left: -50%;
 				}
 
 			.box.style1.right .inner {
